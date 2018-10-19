@@ -232,3 +232,5 @@ Bugfixes:
 = Earlier versions =
 
 For the changelog of earlier versions, please refer to https://yoa.st/yoast-seo-changelog
+
+add my changes;
